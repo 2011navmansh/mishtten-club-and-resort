@@ -1,0 +1,407 @@
+MISHTTEN CLUB & RESORT — MEDIA LINKS (site me jo media lagI hai, sab kuch yahan)
+==============================================================================
+
+NAAM BADALNA NAHI PADEGA — sirf link badlo:
+ 1. Agar aap apni koi photo/video replace karna chahte ho, to is file me us item ka URL
+    badal do aur mujhe bata do — main site me update kar dunga.
+ 2. Ya phir nayi file ka naam ORIGINAL ke naam par RAKH ke apne hosting/CDN par daal do —
+    site automatically wahi dikhayegi (naam same hone chahiye, case bhi same).
+ 3. Saare links ke aage '?width=NNNN' CDN ka size parameter hai — apne direct link par
+    aaye to '?width...' hata dena ya waise hi chhod dena, dono chalega.
+ 4. Hero video (MP4) replace karne ke liye seedha MP4 link de dena.
+
+==============================================================================
+SECTION 1 — HERO VIDEO (homepage)
+==============================================================================
+  Video (MP4)  : https://cdn.shopify.com/videos/c/o/v/3da40f8bb62c460fbf560e0c9babbb3d.mp4
+  Poster image : https://www.mishttenclubandresort.com/cdn/shop/files/Cover-scaled-qashw8agvhentwpfl0rxkuaqhx91xzuhmjmiwo5vts.jpg?width=1920
+
+SECTION 2 — MENU PDF
+==============================================================================
+  Menu card PDF: https://cdn.shopify.com/s/files/1/0758/6542/4125/files/Misteen-Menu-Card-x7.pdf?v=1749034179
+
+==============================================================================
+SECTION 3 — PAGE-WISE USED MEDIA (kahan kaunsi image laga hai)
+==============================================================================
+
+### index.html
+  - Hero video (background):
+      https://cdn.shopify.com/videos/c/o/v/3da40f8bb62c460fbf560e0c9babbb3d.mp4
+  - Hero video — poster frame:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-scaled-qashw8agvhentwpfl0rxkuaqhx91xzuhmjmiwo5vts.jpg?width=1920
+  - Intro — big collage photo (palace):
+      https://www.mishttenclubandresort.com/cdn/shop/files/About-Us-2-scaled-qdcq4cgiysdl1v1lqk924knysxb9gnztbp50n0pv60.jpg?width=1200
+  - Intro — small collage photo (interiors):
+      https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n39e953dvpzp1wmlxz05zvken3j74iknxqxcw.jpg?width=900
+  - Room card 1 — Maharaja Club Presidential:
+      https://www.mishttenclubandresort.com/cdn/shop/files/5560maharaja__1.jpg?width=900
+  - Room card 2 — Royal Suite Ratna:
+      https://www.mishttenclubandresort.com/cdn/shop/files/1124royal_ratna__5.jpg?width=900
+  - Room card 3 — Premium Suite Kavyam:
+      https://www.mishttenclubandresort.com/cdn/shop/files/7762premium_kavyam__1.jpg?width=900
+  - Room card 4 — Executive Suite Charayu:
+      https://www.mishttenclubandresort.com/cdn/shop/files/6493exe_charayu__1.jpg?width=900
+  - Room card 5 — Premium Room:
+      https://www.mishttenclubandresort.com/cdn/shop/files/78791.jpg?width=900
+  - Bento 1 (big) — Pool & rain dance:
+      https://www.mishttenclubandresort.com/cdn/shop/files/5-1-scaled.jpg?width=1400
+  - Bento 2 — Jharokhas:
+      https://www.mishttenclubandresort.com/cdn/shop/files/4429B.jpg?width=900
+  - Bento 3 — Lounges:
+      https://www.mishttenclubandresort.com/cdn/shop/files/3536C.jpg?width=900
+  - Bento 4 — Magnificent rooms:
+      https://www.mishttenclubandresort.com/cdn/shop/files/8234D.jpg?width=900
+  - Bento 5 — Heritage craft:
+      https://www.mishttenclubandresort.com/cdn/shop/files/5570A.jpg?width=900
+  - Bento 6 (wide) — Lake & Mukundra Hills:
+      https://www.mishttenclubandresort.com/cdn/shop/files/2489Cover_192.jpg?width=1400
+  - Bento 7 — Fine dining (Rajsi):
+      https://www.mishttenclubandresort.com/cdn/shop/files/1932-768x492.jpg?width=900
+  - Bento 8 — Celebrations:
+      https://www.mishttenclubandresort.com/cdn/shop/files/81581-768x492.jpg?width=900
+  - Dining card 1 — Rajsi:
+      https://www.mishttenclubandresort.com/cdn/shop/files/1932-768x492.jpg?width=1200
+  - Dining card 2 — Aarna:
+      https://www.mishttenclubandresort.com/cdn/shop/files/7513-768x492.jpg?width=1200
+  - Dining card 3 — Andaz-e-Shahi:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=1200
+  - Wedding band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/IMG-20250411-WA0187.jpg?width=1920
+  - Gallery preview — 8 photos:
+      About-Us-2-scaled / 4429B / 5-1-scaled / 14-1-scaled / 5570A / 84533_1 / 54504__1 / 2489Cover_192
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/2-2-scaled-qasuasg3fmzsjve6wsy6u17s9ii3elqm2qzyf8km28.jpg?width=1920
+
+### rooms.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/2-6-scaled.jpg?width=1920
+  - Row 1 — Maharaja Club Presidential Suite:
+      https://www.mishttenclubandresort.com/cdn/shop/files/5560maharaja__1.jpg?width=1400
+  - Row 2 — Royal Suite Ratna:
+      https://www.mishttenclubandresort.com/cdn/shop/files/1124royal_ratna__5.jpg?width=1400
+  - Row 3 — Premium Suite Kavyam:
+      https://www.mishttenclubandresort.com/cdn/shop/files/7762premium_kavyam__1.jpg?width=1400
+  - Row 4 — Executive Suite Charayu:
+      https://www.mishttenclubandresort.com/cdn/shop/files/6493exe_charayu__1.jpg?width=1400
+  - Row 5 — Premium Room:
+      https://www.mishttenclubandresort.com/cdn/shop/files/78791.jpg?width=1400
+  - 'In every room' icons (8):
+      Wifi.png / Daily-Housekeeping.png / Air-Conditioner.png / Room-Service.png / 2078kitchen.png / 3318television.png / 4636towels.png / 64d0ae514167a_safe-box.png
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=1920
+
+### dining.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/65611.jpg?width=1920
+  - Rajsi row — dining hall:
+      https://www.mishttenclubandresort.com/cdn/shop/files/54504__1.jpg?width=1400
+  - Aarna row — pool side:
+      https://www.mishttenclubandresort.com/cdn/shop/files/26575__1.jpg?width=1400
+  - Private dining card 1 — Room service:
+      https://www.mishttenclubandresort.com/cdn/shop/files/1932-768x492.jpg?width=1200
+  - Private dining card 2 — Celebrations:
+      https://www.mishttenclubandresort.com/cdn/shop/files/64281-1-768x492.jpg?width=1200
+  - Private dining card 3 — Buffets & banquets:
+      https://www.mishttenclubandresort.com/cdn/shop/files/81581-768x492.jpg?width=1200
+  - Andaz-e-Shahi band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=1920
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-2-scaled.jpg?width=1920
+
+### menu.html
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/54504__1.jpg?width=1920
+  - Menu PDF (button link):
+      https://cdn.shopify.com/s/files/1/0758/6542/4125/files/Misteen-Menu-Card-x7.pdf?v=1749034179
+
+### amenities.html
+  - Page hero — pool background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/5-1-scaled.jpg?width=1920
+  - Group 01 — Wellness icons:
+      8421swimming_pool-1 / 4617jacuzzi-1 / 64d0aed3ed7e1_steam-room / 64d0acb5adf72_rainy / 6608bonfire / 2023volleyball / 6837bicycle / 378live (all .png)
+  - Group 02 — Comfort icons:
+      3061wifi-1 / 1890air_conditioner / Daily-Housekeeping-1 / 2454Laundry / 7342ironing_board / 6869elevator / 1143newspaper / 7718power_plug (all .png)
+  - Group 03 — Dining icons:
+      1578restaurant / 8018banquet / 388dining_room / 8316meal / 5234picnic / 8773pray (all .png)
+  - Group 04 — Family icons:
+      3322playground / 1734table_tennis / 8378verandah / 9914lounge / 969grass / 4875egg_chair / 1951balcony / 8846photography (all .png)
+  - Group 05 — Safety icons:
+      289cctv_camera / 64d0ae3fdb120_parking / 64d0ae514167a_safe-box / 5857fire_alarm / 6440smoke_detector / 2304first_aid_kit / 5860card_key / 5449exit (all .png)
+  - Group 06 — Services icons:
+      3144room_service / 8904bellboy / 9065bell / 5165luggage / 374wake_up / 4783caretaker / 1702conference_room / 8731printer (all .png)
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n38f62syxc6r0guklgzrhtm7suogzee2kg1uu.jpg?width=1920
+
+### weddings.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/IMG-20250411-WA0187.jpg?width=1920
+  - Venue 1 — Rajshahi Mahal:
+      https://www.mishttenclubandresort.com/cdn/shop/files/84533_1.jpg?width=1200
+  - Venue 2 — Rani Bagh:
+      https://www.mishttenclubandresort.com/cdn/shop/files/47211__1.jpg?width=1200
+  - Venue 3 — Saheliyon-ki-Bari:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=1200
+  - Package band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/2489Cover_192.jpg?width=1920
+  - Journey collage — 2 photos:
+      IMG-20250411-WA0187 / 84533_1
+  - Glimpse gallery — 6 photos:
+      2489Cover_192 / 5-1-scaled / 84533_1 / 14-1-scaled / IMG-20250411-WA0187 / 47211__1
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/IMG-20250411-WA0187.jpg?width=1920
+
+### events.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/14-1-scaled.jpg?width=1920
+  - Venue 1 — Aathitya:
+      https://www.mishttenclubandresort.com/cdn/shop/files/96642_1.jpg?width=1200
+  - Venue 2 — Rajshahi Mahal:
+      https://www.mishttenclubandresort.com/cdn/shop/files/84533_1.jpg?width=1200
+  - Venue 3 — Saheliyon-ki-Bari:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=1200
+  - Collage — 2 photos:
+      96642_1 / 81581-768x492
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/2-2-scaled-qasuasg3fmzsjve6wsy6u17s9ii3elqm2qzyf8km28.jpg?width=1920
+
+### gallery.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/2489Cover_192.jpg?width=1920
+  - Gallery photos (40 in total):
+      see 'Gallery items' list below
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n38f62syxc6r0guklgzrhtm7suogzee2kg1uu.jpg?width=1920
+
+### about.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/About-Us-1-scaled-qdcq5d4980xas356ljmy8feaps5xfdvwpo2grfvbee.webp?width=1920
+  - Story collage — palace photo:
+      https://www.mishttenclubandresort.com/cdn/shop/files/About-Us-2-scaled-qdcq4cgiysdl1v1lqk924knysxb9gnztbp50n0pv60.jpg?width=1200
+  - Story collage — interiors photo:
+      https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n39e953dvpzp1wmlxz05zvken3j74iknxqxcw.jpg?width=900
+  - Values collage — craft photo:
+      https://www.mishttenclubandresort.com/cdn/shop/files/5570A.jpg?width=1200
+  - Values collage — lounge photo:
+      https://www.mishttenclubandresort.com/cdn/shop/files/3536C.jpg?width=900
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-scaled-qashw8agvhentwpfl0rxkuaqhx91xzuhmjmiwo5vts.jpg?width=1920
+
+### contact.html
+  - Page hero — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/1-scaled.jpg?width=1920
+  - CTA band — background:
+      https://www.mishttenclubandresort.com/cdn/shop/files/Cover-2-scaled.jpg?width=1920
+
+### favicon (all pages)
+  - Browser tab icon:
+      https://www.mishttenclubandresort.com/cdn/shop/files/cropped-USE-THIS-Transparent-background.png?width=64
+
+==============================================================================
+SECTION 4 — GALLERY PAGE ITEMS (40 photos, same order)
+==============================================================================
+  - https://www.mishttenclubandresort.com/cdn/shop/files/About-Us-2-scaled-qdcq4cgiysdl1v1lqk924knysxb9gnztbp50n0pv60.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/4429B.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/5570A.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/2-2-scaled-qasuasg3fmzsjve6wsy6u17s9ii3elqm2qzyf8km28.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/3536C.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n39e953dvpzp1wmlxz05zvken3j74iknxqxcw.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/5560maharaja__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1124royal_ratna__5.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/9673royal_divya__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/7762premium_kavyam__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/9557premium_amrut__3.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/6493exe_charayu__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/78791.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/2866eee__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/2-6-scaled.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/IMG-20250411-WA0187.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/84533_1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/47211__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/96642_1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/14-1-scaled.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/2489Cover_192.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/54504__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/26575__1.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1932-768x492.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/64281-1-768x492.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/7513-768x492.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/5-1-scaled.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1-scaled.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1-scaled-qasua4y610rffuzrwb6f8dh1ywp3dh4uh7wcf1j7oc.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/2-10-2048x1365.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1-5-2048x1365.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1-6-2048x1365.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/1-2048x1365.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/81581-768x492.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/65611.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/Cover-2-scaled.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/28472-768x492.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/63953-768x492.jpg?width=900
+  - https://www.mishttenclubandresort.com/cdn/shop/files/8234D.jpg?width=900
+
+==============================================================================
+SECTION 5 — BAAKI SAARE IMAGES KA POORA POOL (repository CDN se — 155 files)
+In sab me se koi bhi use kar sakte ho future me:
+==============================================================================
+  https://www.mishttenclubandresort.com/cdn/shop/files/1-2048x1365.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1-5-2048x1365.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1-6-2048x1365.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1-9-scaled_1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1-scaled-qasua4y610rffuzrwb6f8dh1ywp3dh4uh7wcf1j7oc.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/10-1-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1000disinfection.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1031telephone.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1124royal_ratna__5.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1129towel.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1143newspaper.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1146woman.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/12-3.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1252socket.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/13-3.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/14-1-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1436bathroom.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1557torch.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1578restaurant.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1609playground_1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1702conference_room.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1734table_tennis.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1734table_tennis_a1bba3fb-7113-4be1-842d-3c7cea327c8a.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1890air_conditioner.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/19-2.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1932-768x492.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/1951balcony.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2-10-2048x1365.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2-13-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2-2-scaled-qasuasg3fmzsjve6wsy6u17s9ii3elqm2qzyf8km28.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2-6-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/20-2.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2023volleyball.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2078kitchen.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/220photography_1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2304first_aid_kit.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2454Laundry.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/247storage.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2489Cover_192.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/26575__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2660fire_extinguisher.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2728alarm-1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/28472-768x492.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/2866eee__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/289cctv_camera.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n38f62syxc6r0guklgzrhtm7suogzee2kg1uu.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3-2-scaled-qasu9n39e953dvpzp1wmlxz05zvken3j74iknxqxcw.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3-8.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3061wifi-1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3144room_service.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3318television.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3322playground.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3322playground_e278146b-6750-498e-8aee-76b7dd178be2.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3506desk.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/3536C.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/374wake_up.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/378live.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/378live_a15f809d-5929-43b8-b97d-92fc5c985e71.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/37bathroom.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/388dining_room.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4155_5.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4387doctor.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4429B.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4616_11.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4617jacuzzi-1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4636towels.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4636towels_16d5f435-6bab-43ee-ab50-b3255c84ea42.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/47211__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4783caretaker.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4875egg_chair.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/4976alcohol.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5-1-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5165luggage.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5234picnic.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5449exit.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/54504__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5560maharaja__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5570A.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5857fire_alarm.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5860card_key.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/5875freezer.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6268s.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/63953-768x492.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64281-1-768x492.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6440smoke_detector.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6493exe_charayu__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64d0acb5adf72_rainy.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64d0ae2c2e5c6_jacuzzi.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64d0ae2c2e5c6_jacuzzi_db779d15-b32b-484c-ae26-1f75cf0626bf.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64d0ae3fdb120_parking.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64d0ae514167a_safe-box.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/64d0aed3ed7e1_steam-room.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/65611.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6608bonfire.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6759living_room.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6837bicycle.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/6869elevator.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7-3-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7276mask.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7342digital_alarm_clock.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7342ironing_board.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7479lan_equipment.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7513-768x492.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7571support.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7718power_plug.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7762premium_kavyam__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/7869sofa.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/78791.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8-3-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8015gloves.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8018banquet.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/81581-768x492.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8234D.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8316meal.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8378verandah.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8421swimming_pool-1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/84533_1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8678wipes.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8731printer.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8773pray.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8812_15.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8846photography.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/8904bellboy.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9-1-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/900shower.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9065bell.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9315protection.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9448spray.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9477smoking_room.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9557premium_amrut__3.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9578umbrella.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/96642_1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9673royal_divya__1.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/969grass.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9768_4.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9914lounge.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/9914lounge_5dbcd59c-6007-4884-aa69-4e20f30267aa.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/About-Us-1-scaled-qdcq5d4980xas356ljmy8feaps5xfdvwpo2grfvbee.webp?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/About-Us-2-scaled-qdcq4cgiysdl1v1lqk924knysxb9gnztbp50n0pv60.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Air-Conditioner.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Cover-1-scaled_47f0f7cd-2c14-4eb0-bd21-156de9a46269.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Cover-2-scaled.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Cover-scaled-qashw8agvhentwpfl0rxkuaqhx91xzuhmjmiwo5vts.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Daily-Housekeeping-1.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Daily-Housekeeping.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/IMG-20250411-WA0187.jpg?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Room-Service.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/USE-THIS-Transparent-background.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/Wifi.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/cropped-USE-THIS-Transparent-background.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/image_-_2025-08-27T180340.789.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/image_-_2025-08-27T180357.545.png?width=900
+  https://www.mishttenclubandresort.com/cdn/shop/files/image_-_2025-08-27T180413.240.png?width=900
+
+==============================================================================
+NOTE: Sabhi images/video aapki hi CDN (mishttenclubandresort.com / Shopify) se hotlink
+ki gayi hain — site khud kuch download nahi karti. Media apne server par rakhna ho to
+naam same rakh kar upload kar do, ya links yahan bhej do.
+==============================================================================
